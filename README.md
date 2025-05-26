@@ -94,7 +94,7 @@ This will start an ipdb shell with access to your SQLAlchemy session and models.
 ### Database Schema Diagram
 You can open the database schema visualization in your browser:
 
-file:///C:/Users/USER/Downloads/Freebie%20tracker%20-%20dbdiagram.io.html
+https://dbdiagram.io/d/Freebies-diagram-6834cd896980ade2eb7e3872
 
 ### Author
 Stacy Waithera
